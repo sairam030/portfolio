@@ -1,0 +1,153 @@
+<!-- about page -->
+<p>
+  Hello, I am John Doe and I am a web developer. I live and work in
+  somewhere warm. I spend most of my day, experimenting with HTML, CSS and
+  JavaScript (and its endless list of frameworks). I enjoy coding and the
+  challenge of learning something new everyday. You can also find me at youtube
+  channel
+  <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA"
+    >coding addict</a
+  >
+</p>
+
+<!-- contact page-->
+<p>
+  If you are looking to get ahold of me, you can send me an email at
+  <a href="mailto:email@email.com">@your_email</a>
+</p>
+<p>
+  You can also reach me on Twitter at
+  <a href="https://www.twitter.com">@your_social_media </a>
+</p>
+
+
+skills percent
+
+ <article>
+          <h3>back end</h3>
+          <!-- single skill -->
+          <div class="skill">
+            <p>Node</p>
+            <div class="skill-container">
+              <div class="skill-value"></div>
+              <p class="skill-text">
+                50%
+              </p>
+            </div>
+          </div>
+          <!--end of  single skill -->
+          <!-- single skill -->
+          <div class="skill">
+            <p>PHP</p>
+            <div class="skill-container">
+              <div class="skill-value value-70"></div>
+              <p class="skill-text skill-text-70">
+                70%
+              </p>
+            </div>
+          </div>
+          <!--end of  single skill -->
+          <!-- single skill -->
+          <div class="skill">
+            <p>Python</p>
+            <div class="skill-container">
+              <div class="skill-value value-80"></div>
+              <p class="skill-text skill-text-80">
+                80%
+              </p>
+            </div>
+          </div>
+          <!--end of  single skill -->
+        </article>
+
+
+        section timeline
+
+        <section class="section timeline">
+      <!-- section title -->
+      <div class="section-title">
+        <h2>timeline</h2>
+        <div class="underline"></div>
+      </div>
+      <!--end of section title -->
+      <div class="section-center timeline-center">
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2020</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+            consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
+            autem, ea excepturi.
+          </p>
+          <span class="number">
+            1
+          </span>
+        </article>
+        <!-- end of  single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2019</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+            consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
+            autem, ea excepturi.
+          </p>
+          <span class="number">
+            2
+          </span>
+        </article>
+        <!-- end of  single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2018</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+            consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
+            autem, ea excepturi.
+          </p>
+          <span class="number">
+            3
+          </span>
+        </article>
+        <!-- end of  single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2017</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+            consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
+            autem, ea excepturi.
+          </p>
+          <span class="number">
+            4
+          </span>
+        </article>
+        <!-- end of  single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2016</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+            consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
+            autem, ea excepturi.
+          </p>
+          <span class="number">
+            5
+          </span>
+        </article>
+        <!-- end of  single timeline item -->
+        <!-- single timeline item -->
+        <article class="timeline-item">
+          <h4>2015</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
+            consequuntur voluptates tempore numquam? Quidem incidunt fugit quasi
+            autem, ea excepturi.
+          </p>
+          <span class="number">
+            6
+          </span>
+        </article>
+        <!-- end of  single timeline item -->
+      </div>
+    </section>
