@@ -351,7 +351,8 @@ Hero
   margin-left: 0;
 }
 .hero-img {
-  display: none;
+ display: block;
+ padding: 2rem;
 }
 .hero {
   background: var(--clr-primary-10);
@@ -843,8 +844,8 @@ Blog
 }
 .card:hover .card-back {
   -webkit-transform: rotateY(0);
-  transform: rotateY(0); */
-}
+  transform: rotateY(0);
+} */
 /* rest of the styles */
 .card-info {
   padding: 1rem 1.5rem;
